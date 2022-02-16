@@ -1,0 +1,14 @@
+D:\SkillBox HomeWork\Theme 6 homework\HomeWoek Theme 6\HomeWoek Theme 6\obj\Debug\netcoreapp3.1\HomeWoek Theme 6.csproj.AssemblyReference.cache
+D:\SkillBox HomeWork\Theme 6 homework\HomeWoek Theme 6\HomeWoek Theme 6\obj\Debug\netcoreapp3.1\HomeWoek Theme 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\SkillBox HomeWork\Theme 6 homework\HomeWoek Theme 6\HomeWoek Theme 6\obj\Debug\netcoreapp3.1\HomeWoek Theme 6.AssemblyInfoInputs.cache
+D:\SkillBox HomeWork\Theme 6 homework\HomeWoek Theme 6\HomeWoek Theme 6\obj\Debug\netcoreapp3.1\HomeWoek Theme 6.AssemblyInfo.cs
+D:\SkillBox HomeWork\Theme 6 homework\HomeWoek Theme 6\HomeWoek Theme 6\obj\Debug\netcoreapp3.1\HomeWoek Theme 6.csproj.CoreCompileInputs.cache
+D:\SkillBox HomeWork\Theme 6 homework\HomeWoek Theme 6\HomeWoek Theme 6\bin\Debug\netcoreapp3.1\HomeWoek Theme 6.exe
+D:\SkillBox HomeWork\Theme 6 homework\HomeWoek Theme 6\HomeWoek Theme 6\bin\Debug\netcoreapp3.1\HomeWoek Theme 6.deps.json
+D:\SkillBox HomeWork\Theme 6 homework\HomeWoek Theme 6\HomeWoek Theme 6\bin\Debug\netcoreapp3.1\HomeWoek Theme 6.runtimeconfig.json
+D:\SkillBox HomeWork\Theme 6 homework\HomeWoek Theme 6\HomeWoek Theme 6\bin\Debug\netcoreapp3.1\HomeWoek Theme 6.runtimeconfig.dev.json
+D:\SkillBox HomeWork\Theme 6 homework\HomeWoek Theme 6\HomeWoek Theme 6\bin\Debug\netcoreapp3.1\HomeWoek Theme 6.dll
+D:\SkillBox HomeWork\Theme 6 homework\HomeWoek Theme 6\HomeWoek Theme 6\bin\Debug\netcoreapp3.1\HomeWoek Theme 6.pdb
+D:\SkillBox HomeWork\Theme 6 homework\HomeWoek Theme 6\HomeWoek Theme 6\obj\Debug\netcoreapp3.1\HomeWoek Theme 6.dll
+D:\SkillBox HomeWork\Theme 6 homework\HomeWoek Theme 6\HomeWoek Theme 6\obj\Debug\netcoreapp3.1\HomeWoek Theme 6.pdb
+D:\SkillBox HomeWork\Theme 6 homework\HomeWoek Theme 6\HomeWoek Theme 6\obj\Debug\netcoreapp3.1\HomeWoek Theme 6.genruntimeconfig.cache
